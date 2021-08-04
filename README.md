@@ -1,2 +1,3 @@
-# disp-18016763
-Laura Sakalyte DISP portfolio 2021
+# DISP portfolio
+
+This is the repository of the DISP deliverables of student Laura Sakalyte 18016763
